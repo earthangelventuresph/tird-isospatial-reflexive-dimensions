@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Status](https://img.shields.io/badge/status-hypothesis%20%2B%20protocol-orange)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)
+
 # tird-isospatial-reflexive-dimensions
 Theory of Isospatial Reflexive Dimensions (TIRD): A unified framework for coexistent mirror states occupying a single spacetime coordinate. Isospatial. Reflexive. Falsifiable.
 # Theory of Isospatial Reflexive Dimensions (TIRD)
@@ -156,6 +160,12 @@ All experiments are designed for preregistration, freezing of analysis scripts, 
 | **Signal velocity** | Depends on medium only | + obstruction, position, information content |
 | **Dark matter** | Unknown particle | Matter of layers with near-zero kernel |
 | **Falsifiability** | Often interpretive | Nine protocols with quantitative bounds |
+
+## More Files
+- [COMPANY.md](COMPANY.md) | [RESEARCHER.md](RESEARCHER.md) | [LEGAL-ETHICS.md](LEGAL-ETHICS.md) | [CONTACT.md](CONTACT.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md) | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | [SECURITY.md](SECURITY.md)
+- [FUNDING.md](FUNDING.md) | [ROADMAP.md](ROADMAP.md) | [FAQ.md](FAQ.md) | [GLOSSARY.md](GLOSSARY.md) | [PRESS-KIT.md](PRESS-KIT.md)
+- [Protocols](protocols/) | [Figures](paper/figures/README.md)
 
 ---
 
